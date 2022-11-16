@@ -2,10 +2,9 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Improving Clinical Outcomes through Informatics and Data Science
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+Dr. Bennett’s group focuses on clinical decision-making in high-risk environments such as intensive care units and on the development and implementation of informatics and data science methods and tools to improve outcomes.
 
 {%
   include link.html
