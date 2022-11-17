@@ -19,7 +19,7 @@ Dr. Bennett’s group focuses on clinical decision-making in high-risk environme
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
+{% include banner.html image="images/banner2.jpg" %}
 
 {% include section.html %}
 
