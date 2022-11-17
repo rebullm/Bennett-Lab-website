@@ -4,22 +4,14 @@ title: Home
 
 # Improving Clinical Outcomes through Informatics and Data Science
 
-Dr. Bennett’s group focuses on clinical decision-making in high-risk environments such as intensive care units and on the development and implementation of informatics and data science methods and tools to improve outcomes.
+Dr. Bennett’s group focuses on clinical decision-making in high-risk environments such as intensive care units and on the development and implementation of 
+informatics and data science methods and tools to improve outcomes.
 
-
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
 {:.center}
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
+{% include banner.html image="images/banner2.jpg" %}
 
 {% include section.html %}
 
