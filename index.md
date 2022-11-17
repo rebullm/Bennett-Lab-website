@@ -6,14 +6,7 @@ title: Home
 
 Dr. Bennett’s group focuses on clinical decision-making in high-risk environments such as intensive care units and on the development and implementation of informatics and data science methods and tools to improve outcomes.
 
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
+
 {%
   include link.html
   type="docs"
