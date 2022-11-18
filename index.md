@@ -13,7 +13,7 @@ informatics and data science methods and tools to improve outcomes.
 
 {% include banner.html image="images/banner2b.jpg" %}
 
-{% include section.html %}
+{% include section.html image="images/banner2b.jpg" %}
 
 # Highlights
 
