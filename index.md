@@ -18,6 +18,11 @@ informatics and data science methods and tools to improve outcomes.
 # Highlights
 
 {% capture text %}
+list - Design and develop novel computational models, tools, and interfaces
+list - Build tools into real-time clinical decision support systems
+list - Partner with health systems to deploy tools and rigorously evaluate their impact
+
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
