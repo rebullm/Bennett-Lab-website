@@ -66,7 +66,7 @@ share that software on GitHub (accessibility) with digital object identifiers (f
 %}
 
 {% capture text %}
-Our mentoring mission to nurture a diverse pipeline of talented and well-trained clinicians and non-clinicians engaged in Patient Oriented Research (POR) using  about 
+Our mentoring mission is to nurture a diverse pipeline of talented and well-trained clinicians and non-clinicians engaged in Patient Oriented Research (POR) using
 informatics methods. We strongly believe that organizations with diverse membership are more innovative and serve their communities better, therefore we are passionate
 recruiting women and those of underrepresented backgrounds to academic medicine and POR and helping them be successful and grow into mentors themselves. 
 
