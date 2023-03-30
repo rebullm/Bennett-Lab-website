@@ -42,9 +42,10 @@ informatics and data science methods and tools to improve outcomes.
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+We will develop and evaluate criteria and CDS tools consistent with the NIH-supported FAIR principles. Whenever  
+possible, we will use open-source (reusability) and cross-platform (interoperability) analytic software. We will
+share that software on GitHub (accessibility) with digital object identifiers (findability). 
+ 
 {%
   include link.html
   link="tools"
