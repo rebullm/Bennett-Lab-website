@@ -42,8 +42,8 @@ informatics and data science methods and tools to improve outcomes.
 %}
 
 {% capture text %}
-We will develop and evaluate criteria and CDS tools consistent with the NIH-supported FAIR principles. Whenever  
-possible, we will use open-source (reusability) and cross-platform (interoperability) analytic software. We will
+We will develop and evaluate criteria and CDS tools consistent with the NIH-supported FAIR principles. Whenever possible,  
+we will use open-source (reusability) and cross-platform (interoperability) analytic software. We will
 share that software on GitHub (accessibility) with digital object identifiers (findability). 
  
 {%
