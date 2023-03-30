@@ -35,7 +35,7 @@ informatics and data science methods and tools to improve outcomes.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/photo2.jpg"
   link="research"
   title="Our Research"
   text=text
