@@ -66,7 +66,10 @@ share that software on GitHub (accessibility) with digital object identifiers (f
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our mentoring mission to nurture a diverse pipeline of talented and well-trained clinicians and non-clinicians engaged in Patient Oriented Research (POR) using  about 
+informatics methods. We strongly believe that organizations with diverse membership are more innovative and serve their communities better, therefore we are passionate
+recruiting women and those of underrepresented backgrounds to academic medicine and POR and helping them be successful and grow into mentors themselves. 
+
 
 {%
   include link.html
@@ -86,5 +89,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
