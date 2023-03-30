@@ -83,7 +83,7 @@ recruiting women and those of underrepresented backgrounds to academic medicine 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/photo4.jpg"
   link="team"
   title="Our Team"
   text=text
