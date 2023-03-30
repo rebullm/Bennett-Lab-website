@@ -58,7 +58,7 @@ share that software on GitHub (accessibility) with digital object identifiers (f
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/photo3.jpg"
   link="resources"
   title="Our Resources"
   flip=true
